@@ -1,13 +1,13 @@
 # Key settings (must edit)
-project_title: repository title
-project_repo: username/repo-name
+project_title: testchoo
+project_repo: UBC-MDS/DSCI_532_vis-2_book
 admins:
-- your_handle_here
+- ggeorg02
 instructors:
-- your_handle_here
+- ggeorg02
 students:
-- your_handle_here
-web_address: https://username.github.io/repo-name
+- ilyamusabirov
+web_address: https://ubc-mds.github.io/DSCI_532_vis-2_book
 
 # User options (may edit)
 questions: true
