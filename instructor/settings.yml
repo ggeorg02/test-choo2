@@ -1,18 +1,11 @@
-# Key settings (must edit)
-project_title: testchoo
-project_repo: UBC-MDS/DSCI_532_vis-2_book
 admins:
 - ggeorg02
+gh-pages: true
 instructors:
 - ggeorg02
-students:
-- ilyamusabirov
-web_address: https://ubc-mds.github.io/DSCI_532_vis-2_book
-
-# User options (may edit)
+project_repo: UBC-MDS/DSCI_532_vis-2_book
+project_title: testchoo
 questions: true
+students: []
 votes_required: 3
-gh-pages: true
-
-
-
+web_address: https://ubc-mds.github.io/DSCI_532_vis-2_book
